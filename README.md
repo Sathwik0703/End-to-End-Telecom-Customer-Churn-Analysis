@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/ab25e514-8adb-4807-b369-b6c3e49127f3" />
+<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/f0232587-5065-41dd-8332-056f1adf9e66" />
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/b037df81-a7c5-4513-a7c0-54e588955285" />
+<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/b895c8cc-be36-44c7-a096-18f26a3bdc1f" />
+<img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/280f07e2-5aa1-4036-976a-28ead8cb342d" />
+<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/760d78fb-383e-452f-9b93-d345cff9e4aa" />
 # End-to-End-Telecom-Customer-Churn-Analysis
 ## 📌 Project Objective
 The objective of this project is to analyze customer churn behavior in a telecom company, identify the key factors contributing to customer attrition, and provide data-driven recommendations to improve customer retention and service quality.
